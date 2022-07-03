@@ -1,7 +1,7 @@
 <?php
 declare(strict_types = 1);
 
-namespace UneknownNull\SpaceRemoveer;
+namespace UnknownNull\SpaceRemover;
 
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerCreationEvent;
