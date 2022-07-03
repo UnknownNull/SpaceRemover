@@ -5,4 +5,5 @@ branches:
 projects:
   SpaceRemoveer:
     path: ""
+    icon: icon.png
 ...
