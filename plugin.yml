@@ -1,6 +1,6 @@
 name: SpaceRemover
 main: UnknownNull\SpaceRemover\Main
-api: [3.0.0, 4.0.0]
-version: 1.0.0
+api: 4.0.0
+version: 1.0.1
 author: UnknownNull
 description: Stop players from having spaces in their name.
