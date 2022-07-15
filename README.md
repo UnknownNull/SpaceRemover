@@ -4,6 +4,9 @@
 <p>
 Stop players from having spaces in their name in Pocketmin Servers.
 </p>
+
+<h2>Preview</h2>
+
 ![](https://github.com/UnknownNull/SpaceRemover/blob/main/Preview.gif)
 
 <h2>Help</h2>
