@@ -3,7 +3,8 @@ declare(strict_types = 1);
 
 namespace UnknownNull\SpaceRemover;
 
-use pocketmine\Player;
+use pocketmine\Player\Player;
+
 
 class CustomPlayer extends Player{
 
