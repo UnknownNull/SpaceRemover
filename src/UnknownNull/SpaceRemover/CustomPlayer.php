@@ -3,14 +3,10 @@ declare(strict_types = 1);
 
 namespace UnknownNull\SpaceRemover;
 
-use pocketmine\player\Player;
+use pocketmine\Player\Player;
 
 
 class CustomPlayer extends Player{
-	
-	public $username;
-	public $displayName;
-	public $iusername;
 
 	/**
 	 * Returns the name of the player replacing the spaces in players name.
