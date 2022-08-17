@@ -9,6 +9,12 @@ Stop players from having spaces in their name in Pocketmin Servers.
 
 ![](https://github.com/UnknownNull/SpaceRemover/blob/main/Preview.gif)
 
+<h2>Install</h2>
+<p>
+1. Download: https://poggit.pmmp.io/ci/UnknownNull/SpaceRemover/SpaceRemoveer
+2. drag and drop to plugin folder
+3. run server... easy :D
+</p>
 <h2>Help</h2>
 
 <p>
