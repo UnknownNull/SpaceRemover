@@ -78,6 +78,7 @@ class CustomPlayer extends Player{
 	 * @return bool
 	 */
 	private function hasSpaces(string $string): bool{
-		return strpos($string, ' ') !== false;
+		// return strpos($string, ' ') !== false;
+        	return str_contains($string, ' ');
 	}
 }
